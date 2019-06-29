@@ -4,6 +4,7 @@ const about = () => {
         email: 'msanmartinacosta@gmail.com',
         description: 'Photographer from Argentina',
         longDescription: 'Born February 15, 1989. Working as a software developer',
+        profilePicture: 'https://scontent.faep9-1.fna.fbcdn.net/v/t1.0-9/38391326_593324981061649_3103072764228009984_n.jpg?_nc_cat=103&_nc_oc=AQmQuwX-hloO7yz1vrmI4onvv-UNxXqJSPSYup2J3b8ppm3GYz4VpgHdi2Yno42C2gA&_nc_ht=scontent.faep9-1.fna&oh=5ad1f3cfc9cb0d68a50492143ce19309&oe=5D817D82',
         links: [{
             thumbnail: 'linkedin',
             link: 'http://linkedin.com/in/msanmartinacosta'
